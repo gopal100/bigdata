@@ -1,3 +1,0 @@
-Map-Reduce program to filter out maximum temperature in each year from a given csv file.
-Programming Language - Python
-Hadoop version - 3
